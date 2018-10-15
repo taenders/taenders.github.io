@@ -154,7 +154,7 @@ p {
   border: 1px solid #1c1c1c;
   border-radius: 5px;
   font-size: 13px;
-  -webkit-transition: all .5s;
+  -webkit-transition: all 1s;
   transition: all .5s;
 }
 .buton:hover {
