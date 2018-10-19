@@ -249,8 +249,8 @@ p {
 .logo {
   float: left;
   padding-top: 20px;
-  height: 100px;
-  width: 100px;
+  height: 60px;
+  width: 40px;
   color: #fff;
 }
 .logo:hover, .logo:focus {
